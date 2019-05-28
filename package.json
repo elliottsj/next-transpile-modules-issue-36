@@ -1,0 +1,27 @@
+{
+  "name": "next-transpile-modules-issue-36",
+  "version": "1.0.0",
+  "description": "Reproduction of https://github.com/martpie/next-transpile-modules/issues/36",
+  "main": "pages/index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elliottsj/next-transpile-modules-issue-36.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elliottsj/next-transpile-modules-issue-36/issues"
+  },
+  "homepage": "https://github.com/elliottsj/next-transpile-modules-issue-36#readme",
+  "dependencies": {
+    "next": "8.0.4",
+    "next-transpile-modules": "2.3.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
